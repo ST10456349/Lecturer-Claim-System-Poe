@@ -1,0 +1,3 @@
+## UML Class Diagram
+The UML class diagram for the Contract Monthly Claim System (CMCS) is stored under `images/UML_ClassDiagram.png`.  
+It shows the main entities: Lecturer, Claim, Activity, Document, Coordinator, and Manager, along with their attributes and relationships.
