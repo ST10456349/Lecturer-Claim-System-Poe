@@ -1,0 +1,14 @@
+# POE_PROG6212_CMCS
+
+A .NET Core WPF prototype for the Contract Monthly Claim System (CMCS), developed as part of the PROG6212 Portfolio of Evidence.
+
+## Contents
+- UML class diagram (images/)
+- Lecturer GUI prototype (screenshots/)
+- Coordinator & Manager mockups (screenshots/)
+- Project plan (docs/)
+- Final POE report (docs/POE_Report.docx)
+
+## Notes
+This repository contains front-end prototype files only (no backend implemented). See POE report for full documentation.
+
